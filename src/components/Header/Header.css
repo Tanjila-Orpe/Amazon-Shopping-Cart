@@ -1,0 +1,15 @@
+.header{
+    height: 80px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px;
+}
+.header div a{
+    color: snow;
+    margin-left: 30px;
+}
+.header div a:hover{
+    color: orange;
+}
